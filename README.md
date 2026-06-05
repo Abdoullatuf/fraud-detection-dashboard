@@ -4,9 +4,7 @@ Dashboard interactif de détection de fraude sur transactions e-commerce, optimi
 
 ## Application en ligne
 
-▶️ **[Lancer le dashboard](https://fraud-detection-dashboard.streamlit.app/)**
-
-> Lien à mettre à jour avec l'URL exacte générée par Streamlit Community Cloud après déploiement.
+▶️ **[Lancer le dashboard](https://fraud-detection-dashboard-ml.streamlit.app/)**
 
 ## Résultat clé
 
