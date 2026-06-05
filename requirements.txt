@@ -1,0 +1,11 @@
+# Versions épinglées = celles ayant servi à entraîner/sérialiser le modèle
+# (évite les erreurs de désérialisation joblib sur Streamlit Cloud).
+streamlit==1.57.0
+altair==6.1.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost==3.2.0
+joblib==1.5.3
+shap==0.51.0
+matplotlib==3.10.8

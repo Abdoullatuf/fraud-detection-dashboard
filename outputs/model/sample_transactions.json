@@ -1,0 +1,24 @@
+{
+  "fraud_high_score": {
+    "signup_time": "2015-07-16 15:26:11",
+    "purchase_time": "2015-11-10 02:12:59",
+    "purchase_value": 28.0,
+    "device_id": "LNXZJVBLOYGWE",
+    "source": "Direct",
+    "browser": "Opera",
+    "sex": "F",
+    "age": 29,
+    "ip_address": 2004543374
+  },
+  "legit_low_score": {
+    "signup_time": "2015-06-26 14:46:14",
+    "purchase_time": "2015-10-05 16:20:27",
+    "purchase_value": 33.0,
+    "device_id": "YHZXLMREEWOFJ",
+    "source": "Ads",
+    "browser": "IE",
+    "sex": "M",
+    "age": 59,
+    "ip_address": 1477024413
+  }
+}
